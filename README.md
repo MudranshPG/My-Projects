@@ -17,7 +17,7 @@ All expenses are **saved to a JSON file** (`expenses.json`) for permanent storag
 ---
 
 ### 🧠 Tech Used
-- **Python 3.x**  
+- **Python 3.14**  
 - **Tkinter** (GUI)  
 - **JSON** (for data storage)  
 - **datetime.date** (to track expense dates)  
